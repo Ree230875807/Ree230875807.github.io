@@ -1,6 +1,16 @@
-# Ree230875807.github.io
+# ReotshepileStock-Portfolio.io
 
-# ReotshepileStock-Portfolio
+## 🎤 Mock Interview Video
+
+This video demonstrates my mock interview where I present myself, explain my projects, and reflect on my technical and communication skills.
+
+The purpose of this interview was to improve my confidence, communication, and ability to explain software development concepts clearly.
+
+
+
+https://github.com/user-attachments/assets/f6d12cd6-4b0a-4604-bb76-87fc32992320
+
+
 
 ## Reflection on markdown
 
