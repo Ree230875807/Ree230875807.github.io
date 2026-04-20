@@ -1,29 +1,29 @@
 # Reotshepile Stock
 
-## 📞 Contact
+##  Contact
 - Phone: 082 726 5108  
 - Email: 230875807@mycput.ac.za  
 
 ---
 
-## 🎯 Career Objective
+##  Career Objective
 Motivated ICT Applications Development student seeking a software development internship to apply skills in Java, MySQL, and web development.
 
 ---
 
-## 🎓 Education
+##  Education
 **Cape Peninsula University of Technology**  
 Diploma in ICT Applications Development (Current)  
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 - Java, SQL, HTML, CSS, JavaScript  
 - GitHub, NetBeans, MySQL Workbench  
 
 ---
 
-## 📂 Projects
+##  Projects
 ### EduConnect
 - Developed backend features using Java and MySQL  
 - Worked in a team using GitHub  
@@ -31,7 +31,7 @@ Diploma in ICT Applications Development (Current)
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 **Vera’s Closet**  
 Personal Assistant & Sales Assistant  
 July 2023 – September 2025  
@@ -39,6 +39,16 @@ July 2023 – September 2025
 - Assisted with admin and daily operations  
 
 ---
+##  References
 
-## 📌 References
-Available on request
+### Gorataone Mokoto  
+Former Colleague – Vera’s Closet  
+ 076 100 1469  
+ mokotogora@gmail.com  
+
+---
+
+### Solomon Machaule  
+Academic Project Member – CPUT  
+ 076 967 3393  
+ 222359366@mycput.ac.za  
