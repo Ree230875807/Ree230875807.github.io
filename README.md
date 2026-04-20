@@ -2,7 +2,7 @@
 
 ## 🎤 Mock Interview Video
 
-This video demonstrates my mock interview where I present myself, explain my projects, and reflect on my technical and communication skills.
+This video demonstrates my mock interview where I present myself, and reflect on my technical and communication skills.
 
 The purpose of this interview was to improve my confidence, communication, and ability to explain software development concepts clearly.
 
